@@ -1,5 +1,6 @@
 ## Project Name
-Drag and Drop 
+Drag and Drop
+Drag&drop
 
 ## Project description
 In This Project you will be able to drag shape shapes of your choice in canvas and arrange them the way you want.
@@ -22,6 +23,6 @@ In This Project you will be able to drag shape shapes of your choice in canvas a
 [View the page](https://blackscure.github.io/Drag-drop/)
 
 ## Contact information
-[Email](wekesabuyahi@gmail.com)
+[Email](stevesheibi@gmail.com)
 
  
